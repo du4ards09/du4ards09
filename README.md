@@ -27,4 +27,4 @@ Olá , eu sou a du4ards09!
   
  </div>
 
- ![Snake animation](https://github.com/du4ards09/github-contribution-grid-snake.svg)
+ 
