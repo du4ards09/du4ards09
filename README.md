@@ -26,5 +26,5 @@ Olá , eu sou a du4ards09!
   <a href="https://twitter.com/du4ardalima"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
  </div>
- 
- ![Snake animation](https://github.com/du4ards09/du4ards09/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/du4ards09/github-contribution-grid-snake.svg)
