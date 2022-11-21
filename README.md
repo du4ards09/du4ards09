@@ -27,5 +27,5 @@ Olá , eu sou a du4ards09!
   
  </div>
 
-![snake gif]("https://github.com/du4ards09/du4ards09/blob/output/github-contribution-grid-snake.svg)
+![snake gif]("https://github.com/du4ards09/du4ards09/blob/output/github-contribution-grid-snake.svg")
  
