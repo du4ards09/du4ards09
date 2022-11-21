@@ -27,5 +27,5 @@ Olá , eu sou a du4ards09!
   
  </div>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/du4ards09/du4ards09/blob/output/github-contribution-grid-snake.svg)
  
