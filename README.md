@@ -8,7 +8,7 @@ Olá , eu sou a du4ards09!
  ⚡ Fun fact: Adoro ultilizar html
  
  <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/du4ards09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=du4ards09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=du4ards09&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -27,4 +27,5 @@ Olá , eu sou a du4ards09!
   
  </div>
 
+!["snake gif"]"(https://github.com/du4ards09/du4ards09/blob/output/github-contribution-grid-snake.svg)
  
