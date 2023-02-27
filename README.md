@@ -1,5 +1,6 @@
 Olá , eu sou a du4ards09!
 
+front-end
 
  🌱 Estudando Desenvolvimento de Sistemas
  
