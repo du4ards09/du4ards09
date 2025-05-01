@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Maria Eduarda! 💖</h1>
 
-<div align="right">
-  <img alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/111713157/202585100-bb307b98-94c8-48c7-8a25-d9864f079e0b.png">
+<div align="center">
+  <img alt="Rafa-pic" height="150" style="border-radius:60px;" src="https://user-images.githubusercontent.com/111713157/202585100-bb307b98-94c8-48c7-8a25-d9864f079e0b.png">
 </div>
 
 <p align="center">
