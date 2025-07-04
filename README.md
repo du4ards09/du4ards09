@@ -1,7 +1,7 @@
 <h1 align="center">🏁 Olá, eu sou a Maria Eduarda! 💖</h1>
 
 <div align="center">
-  <img alt="Foto da Maria Eduarda" height="150" style="border-radius: 60px;" src="https://user-images.githubusercontent.com/111713157/202585100-bb307b98-94c8-48c7-8a25-d9864f079e0b.png" />
+  <img alt="Foto da Maria Eduarda" height="150" style="border-radius: 60px;" src="https://github.com/du4ards09/du4ards09/blob/main/.github/download20250705013523.png" />
 </div>
 
 <p align="center" style="font-size: 1.2rem;">
@@ -12,12 +12,19 @@
   ☕ Fun fact: Amo criar com HTML — é onde a mágica começa!
 </p>
 
-<div align="center" style="margin-top: 1rem;">
-  <a href="https://github.com/du4ards09" target="_blank" rel="noopener noreferrer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=du4ards09&show_icons=true&theme=pink&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=du4ards09&layout=compact&langs_count=7&theme=pink" />
-  </a>
+<div align="center">
+
+  <!-- Trophy (Conquistas do GitHub) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=du4ards09&theme=flat&no-frame=true&no-bg=true&margin-w=15" />
+
+  <br><br>
+
+  <!-- Streak (Sequência de contribuições) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=du4ards09&theme=rose_pine&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
 </div>
+
+
 
 ---
 ## 💡 Conhecimentos & Ferramentas
