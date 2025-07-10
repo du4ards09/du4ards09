@@ -8,7 +8,6 @@
   🌸 Técnica em Desenvolvimento de Sistemas <br>
   💻 Apaixonada por Front-end <br>
   🎓 Estudando e evoluindo todos os dias <br>
-  🌈 Pronouns: ela/dela <br>
   ☕ Fun fact: Amo criar com HTML — é onde a mágica começa!
 </p>
 
