@@ -23,9 +23,8 @@
 
 </div>
 
-
-
 ---
+
 ## 💡 Conhecimentos & Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 1rem;">
@@ -42,13 +41,23 @@
     <h3>⚙️ Back-End</h3>
     <img src="https://img.shields.io/badge/Java-F7D9A3?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-C3B7F7?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-F7A3A3?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-A3F7D0?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-A3D0F7?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   </div>
 
   <div style="min-width: 200px;">
     <h3>📱 Mobile</h3>
     <img src="https://img.shields.io/badge/Android_Studio-A3F7C3?style=for-the-badge&logo=android-studio&logoColor=white" />
     <img src="https://img.shields.io/badge/React_Native-D6A3F7?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </div>
+
+  <div style="min-width: 200px;">
+    <h3>🛠️ Outros</h3>
+    <img src="https://img.shields.io/badge/Draw.io-F7A3A3?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ludichart-F7C6E4?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/VSCode-A3E0F7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </div>
 
   <div style="min-width: 200px;">
